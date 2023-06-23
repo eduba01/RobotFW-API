@@ -39,16 +39,18 @@ https://robotframework.org/#libraries
 pip install robotframework-requests
 ````
 ### Trabalhando com o Response da Requisição
+
 http://robotizandotestes.blogspot.com/2017/11/season-api-testing-ep-02-trabalhando.html
 
 ### Testes de API com o Robot Framework
+
 http://robotizandotestes.blogspot.com/2017/10/season-api-testing-ep-01-testes-de-api.html
 
 
-## Config vscode
+*config vscode*
 
 http://robotizandotestes.blogspot.com/2020/02/season-editores-ep-02-visual-studio.html
-
+ 
 
 Intalar library json
 https://robotframework-thailand.github.io/robotframework-jsonlibrary/JSONLibrary.html
