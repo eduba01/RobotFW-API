@@ -19,7 +19,6 @@ https://python.org.br/instalacao-windows/Linux (geralmente ja vem instalado)
  
 sudo apt-get install python3
 
-<<<<<<< HEAD
 Update pippython -m 
 pip install --upgrade pip
 ````
@@ -39,6 +38,12 @@ https://robotframework.org/#libraries
 ````
 pip install robotframework-requests
 ````
+### Trabalhando com o Response da Requisição
+http://robotizandotestes.blogspot.com/2017/11/season-api-testing-ep-02-trabalhando.html
+
+### Testes de API com o Robot Framework
+http://robotizandotestes.blogspot.com/2017/10/season-api-testing-ep-01-testes-de-api.html
+
 
 ## Config vscode
 
@@ -50,6 +55,4 @@ https://robotframework-thailand.github.io/robotframework-jsonlibrary/JSONLibrary
 
 pip install robotframework-jsonlibrary
 https://robotframework-thailand.github.io/robotframework-jsonlibrary/JSONLibrary.html
-=======
  
->>>>>>> a3e3202be4436935dc3f66be17c605d25c8ffc76
